@@ -56,7 +56,7 @@ The dataset used in this analysis is publicly available and contains the followi
 To run the project locally, clone this repository and install the necessary dependencies:
 
 ```bash
-git clone https://github.com/yourusername/telecom-churn-analysis.git
+git clone https://github.com/Abhimanu341/telecom-churn-analysis.git
 cd telecom-churn-analysis
 pip install -r requirements.txt
 ```
